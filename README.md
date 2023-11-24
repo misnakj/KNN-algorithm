@@ -1,1 +1,3 @@
 # KNN-algorithm
+
+This project involves the implementation of a K-Nearest Neighbors (KNN) algorithm in Python, utilizing the Pandas and NumPy libraries for efficient data manipulation. The workflow includes the initial separation of input and output data, subsequent application of train-test splitting, and normalization of both the training and testing datasets. A KNN model is then created using the normalized training data, and predictions are made on the testing data. Finally, a comprehensive performance evaluation is conducted to assess the effectiveness of the KNN algorithm in the given context.
